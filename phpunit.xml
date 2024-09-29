@@ -12,6 +12,7 @@
          processIsolation="false"
          stopOnError="false"
          stopOnFailure="false"
+         cacheDirectory=".phpunit.cache"
          backupStaticProperties="false"
          displayDetailsOnIncompleteTests="true"
          displayDetailsOnSkippedTests="true"
